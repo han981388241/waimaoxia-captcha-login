@@ -1,2 +1,2 @@
 # waimaoxia-captcha-login
-外贸侠旋转登录获登录凭证
+本项目仅供学习、研究与技术交流使用。
